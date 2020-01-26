@@ -1,7 +1,7 @@
 /*
-  Autor:        Camil Schmid
+  Autor:        Umut Oeztuerk
   Version:      1.0
-  Beschreibung: Dieser Code beschreibt eine Arduino Schaltung, welches ein Game darstellt.
+  Beschreibung: Dieser Code beschreibt eine Arduino Schaltung, welches einen Party Trick mit einem Touch sensor darstellt.
   */
 
 void setup() {
