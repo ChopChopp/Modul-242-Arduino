@@ -1,3 +1,9 @@
+/*
+  Autor:        Camil Schmid
+  Version:      1.0
+  Beschreibung: Dieser Code beschreibt eine Arduino Schaltung, welches ein Game darstellt.
+  */
+
 void setup() {
  pinMode(2, INPUT);
  Serial.begin(9600);
