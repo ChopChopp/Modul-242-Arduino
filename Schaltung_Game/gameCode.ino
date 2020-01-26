@@ -1,3 +1,10 @@
+/*
+  Autor:        Camil Schmid
+  Version:      1.0
+  Beschreibung: Dieser Code beschreibt eine Arduino Schaltung, welches ein Game darstellt.
+  */
+
+
 #include <LiquidCrystal.h>
 
 const int pin_RS = 8;
